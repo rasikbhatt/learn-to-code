@@ -37,7 +37,11 @@ myForm.onsubmit=function(){
         }else{
             arrayInput[i].style.border="none";
             Flag=true;
+
         }
+    }
+    if(Flag==false){
+        document.getElementById("allow").style.display="flex";
     }
     return Flag;
 }
