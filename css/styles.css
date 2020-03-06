@@ -11,6 +11,7 @@ body{
     background-image: url(/images/bg-intro-mobile.png);
     background-color: hsl(0, 100%, 74%);
     background-repeat: no-repeat;
+    width: 100vw;
 }
 .head{
     margin: 5rem 2rem;
