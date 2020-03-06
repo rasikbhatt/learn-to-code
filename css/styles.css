@@ -113,3 +113,6 @@ form input{
         background-image: url(/images/bg-intro-desktop.png);
     }
 }
+.allow{
+    float: right;
+}
