@@ -35,7 +35,7 @@ myForm.onsubmit=function(){
             arrayInput[i].style.border="1px solid red";
             Flag=false;
         }else{
-            arrayInput[i].style.border="none";
+            arrayInput[i].style.border="1px solid hsl(246, 25%, 77%)";
             Flag=true;
 
         }
